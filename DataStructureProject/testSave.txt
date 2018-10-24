@@ -1,0 +1,58 @@
+hello this is a test file
+Character- - - Frequency - - - HoffmanCode 
+ 	5	00
+e	3	010
+l	3	011
+t	3	100
+i	3	101
+s	3	110
+h	2	1110
+o	1	11110
+a	1	111110
+f	1	111111
+this is another one for the program
+Character- - - Frequency - - - HoffmanCode 
+t	3	000
+f	1	00100
+p	1	00101
+g	1	00110
+m	1	00111
+o	4	010
+r	4	011
+i	2	1000
+s	2	1001
+a	2	1010
+n	2	1011
+h	3	1100
+e	3	1101
+ 	6	111
+and yet we have one more test line for the program
+Character- - - Frequency - - - HoffmanCode 
+t	4	000
+h	2	0010
+a	3	0011
+ 	10	01
+n	3	1000
+d	1	100100
+y	1	100101
+w	1	100110
+v	1	100111
+o	4	1010
+r	4	1011
+s	1	110000
+l	1	110001
+i	1	110010
+f	1	110011
+p	1	110100
+g	1	110101
+m	2	11011
+e	8	111
+aaaaabbbbbbbbbddddddddddeeeeeeeeeeeeeeeefffffffffffffffffffffffffffffffffffffffffffffccccccccccccddd
+Character- - - Frequency - - - HoffmanCode 
+f	45	0
+c	12	100
+d	13	101
+a	5	1100
+b	9	1101
+e	16	111
+
